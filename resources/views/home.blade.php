@@ -38,7 +38,7 @@
             </p>
 
             <div class="botaoCard">
-                <button type="button" class="btn btn-light">Ver Mais</button>
+                <button type="button" class="btn btn-light corBotao">Ver Mais</button>
             </div>
         </div>
 
@@ -51,7 +51,7 @@
             </p>
 
             <div class="botaoCard">
-                <button type="button" class="btn btn-light">Ver Mais</button>
+                <button type="button" class="btn btn-light corBotao">Ver Mais</button>
             </div>
         </div>
 
@@ -64,7 +64,7 @@
             </p>
 
             <div class="botaoCard">
-                <button type="button" class="btn btn-light">Ver Mais</button>
+                <button type="button" class="btn btn-light corBotao">Ver Mais</button>
             </div>
         </div>
     </div>

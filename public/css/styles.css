@@ -44,6 +44,10 @@ footer {
     margin-bottom: 5%;
 }
 
+.corBotao{
+    background-color: #eb9a0e;
+}
+
 .imgCard {
     justify-content: center;
     padding: 10px;

@@ -57,7 +57,7 @@
       </div>
 
       <div class="col-12 botaoCadastro">
-        <button type="submit" class="btn btn-light">Cadastrar</button>
+        <button type="submit" class="btn btn-light corBotao">Cadastrar</button>
       </div>
     </form>
   </div>
