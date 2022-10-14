@@ -55,25 +55,26 @@ footer {
     padding: 10px;
 }
 
-.controlar-lista {
-    width: 100%;
-    min-height: 100vh;
-    background-color: white;
+.titulo-lista{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
 }
 
 .pesquisar{
     float: right;
 }
 
-.imgLista {
-    height: 90px;
-    width: 90px;
-    border-radius: 50px;
-    background-color: white;
-    border-width: 0;
+.titulo{
+    color: #eb9a0e;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    padding-bottom: 3%;
 }
 
-.controlar-cadastro {
+.controlar-edicao {
     width: 100%;
     min-height: 100vh;
 }
@@ -84,7 +85,7 @@ footer {
 }
 
 /*  Codigo do silvao:  */
-.cadastroCaminhao{
+.cadastro{
     background-color: rgb(33, 37, 41);
     margin-top: 5%;
     margin-bottom:5%;

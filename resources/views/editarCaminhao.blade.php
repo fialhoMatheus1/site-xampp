@@ -1,7 +1,7 @@
 @extends('padrao')
 @section('content')
-<section class="container m-3 controlar-cadastro">
-
+<section class="container m-3 controlar-edicao">
+  <p class="titulo-lista">Gerenciar Caminhões</p>
   <div class="pesquisar">
     <div class="input-group mb-3">
       <input type="text" class="form-control" placeholder="Marca do Caminhão" aria-label="Recipient's username" aria-describedby="button-addon2">
